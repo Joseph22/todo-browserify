@@ -1,0 +1,27 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "authors": [
+    "Joseph Perez"
+  ],
+  "description": "todo app in angularjs with browserify",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/js/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.6",
+    "angular-route": "~1.4.6",
+    "jquery": "~2.1.4",
+    "es5-shim": "~4.1.13"
+  }
+}
